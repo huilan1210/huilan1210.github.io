@@ -4,10 +4,10 @@ layout: page
 
 # About Me
 
-<img src="https://xiejuan.com/xiejuan.jpg" class="floatpic"> 
+<img src="https://github.com/huilan1210/huilan1210.github.io/blob/main/xiejuan.jpg" class="floatpic"> 
 
 
-Here is **Juan Xie** [(Linda, 谢娟)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
+Here is **Juan Xie** [(Linda, 谢娟)].<br>
 
 Juan Xie received her Ph.D. degree in Integrated Life Science (Chemistry) from Peking University in 2022 and her B.Sc. and B.Admin. in Biostatistics and Accounting from Anhui University in 2017. She is currently a Boya postdoctoral researcher in the Academy for Advanced Interdisciplinary Studies at Peking University. She was awarded the Beijing Outstanding Graduates and the Outstanding Graduates of Peking University in 2022. Her research focuses on computer/AI-aided allosteric drug design and deep learning-based functional prediction of post-translational modification sites. 
 
