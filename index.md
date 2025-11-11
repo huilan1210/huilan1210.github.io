@@ -9,13 +9,8 @@ layout: page
 Here is **Juan Xie** [(Linda, 谢娟)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
 
 Juan Xie received her Ph.D. degree in Integrated Life Science (Chemistry) from Peking University in 2022 and her B.Sc. and B.Admin. in Biostatistics and Accounting from Anhui University in 2017. She is currently a Boya postdoctoral researcher in the Academy for Advanced Interdisciplinary Studies at Peking University. She was awarded the Beijing Outstanding Graduates and the Outstanding Graduates of Peking University in 2022. Her research focuses on computer/AI-aided allosteric drug design and deep learning-based functional prediction of post-translational modification sites. 
----
-I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://oba.eco/) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an outstanding undergraduate scholar at the leading AI conferences AAAI 2024 and SIGKDD 2024.
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
----
 ---
 
 ## Research Interests
