@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/huilan1210/huilan1210.github.io/blob/main/xiejuan.jpg" class="floatpic" width="360" height="480"> 
+<img src="https://github.com/huilan1210/huilan1210.github.io/blob/main/xiejuan.jpg" class="bio-photo" alt="Hanlin Cai bio photo" width="100" height="100"> 
 
 
 Here is **Juan Xie** [(Linda, 谢娟)].<br>
