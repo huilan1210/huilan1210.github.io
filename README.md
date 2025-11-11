@@ -1,8 +1,8 @@
-# GuangLun2000.github.io
+# huilan1210.github.io
 
 GuangLun (光轮) means Nimbus in Chinese ✨
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. 
+Here is **Juan Xie (Linda, 谢娟)**. 
 
 This is the repository for my personal website.
 
