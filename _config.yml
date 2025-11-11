@@ -2,8 +2,8 @@
 #  BASIC SITE INFO
 # --------------------------------------------------
 title: Juan Xie   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Juan Xie. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Juan Xie, Postdoc at the Peking University.  # Strongly recommended for SEO & social cards
+tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+description: Here is personal website of Juan Xie, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
@@ -16,14 +16,14 @@ owner:
   name: Juan Xie
   avatar: xiejuan.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: juanxie@pku.edu.cn
+  email: hc663@cam.ac.uk
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: 
+  twitter: lancecai2002
   github: huilan1210
-  linkedin: juanxie
-  scholar: https://scholar.google.com/citations?user=Os48U1YAAAAJ&hl=zh-CN
+  linkedin: hanlincai
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   zhihu: https://www.zhihu.com/people/chlire
   xiaohongshu: 5c27848f0000000005030c6f
