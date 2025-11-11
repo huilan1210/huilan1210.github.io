@@ -4,11 +4,8 @@ layout: page
 
 # About Me
 
-<<<<<<< HEAD
-<img src="https://xiejuan.com/xiejuan.jpg" class="floatpic"> #https://github.com/huilan1210/huilan1210.github.io/xiejuan.jpg
-=======
-<img src="https://github.com/huilan1210/huilan1210.github.io/blob/main/xiejuan.jpg" class="floatpic"> #https://xiejuan.com/xiejuan.jpg
->>>>>>> 127e6f0a7c285e1d8ad9a2eb7b5e25338b1b9cda
+<img src="https://xiejuan.com/xiejuan.jpg" class="floatpic"> 
+
 
 Here is **Juan Xie** [(Linda, 谢娟)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
 
